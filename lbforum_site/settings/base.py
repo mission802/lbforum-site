@@ -34,7 +34,7 @@ sys.path.insert(0, os.path.join(VENDOR_DIR, 'django-lbattachment'))
 SECRET_KEY = '@hq__xnkji!*&eetd=39q4e=+(2)a0!!-(0i7&g1+1^og#yu@('
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = []
 
