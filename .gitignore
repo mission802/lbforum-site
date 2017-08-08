@@ -10,3 +10,5 @@ bower_components/
 media/
 collectedstatic/
 /lbforum_site/settings/local.py
+.idea/
+lbforum-site.iml
