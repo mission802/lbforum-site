@@ -1,6 +1,6 @@
 from .base import *  # NOQA
 
-DEBUG = False
+DEBUG = True
 THUMBNAIL_DEBUG = True
 DEBUG_WORKFLOW = False
 EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
